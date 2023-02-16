@@ -1,9 +1,9 @@
 # Project OpenVehicleLocator
 An open-source project to locate a vehicule <br>
-This repository is the project showcase, you can navigate beetween all the repository in the [Project navigator](#project-navigation)
+This repository is the project showcase, you can navigate beetween all the repository in the [Project navigator](#project-navigation).
 
-## Project Presentation
-The project goal is to make an open-source vehicle tracker. <br>
+## Project presentation
+The project goal is to make an open-source vehicle tracker.
 It's developped by a team of 4 software students (Théo M, Zoubir B, Sylvain B and Ezio C) on an idea of Ezio C.
 This is a study project of students from BTS SNIR at Tours.
 
