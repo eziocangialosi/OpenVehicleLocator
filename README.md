@@ -1,5 +1,5 @@
-<a href="https://aimeos.org/">
-    <img src="https://raw.githubusercontent.com/eziocangialosi/OVL-Documentation/master/Images/OVL_logo_name_white.png?token=GHSAT0AAAAAAB5FZXWM4SDF3ECU3KUNOZVKZAMLYPQ" alt="OVL logo" title="OVL" align="right" height="60" />
+<a href="https://github.com/eziocangialosi/OpenVehicleLocator">
+    <img src="https://raw.githubusercontent.com/eziocangialosi/OVL-Documentation/master/images/OVL_logo_name_white.png" alt="OVL logo" title="OVL" align="right" height="60" />
 </a>
 
 # Project OpenVehicleLocator
