@@ -6,6 +6,9 @@
 An open-source project to locate a vehicule <br>
 This repository is the project showcase, you can navigate beetween all the repository in the [Project navigator](#project-navigation).
 
+> **Warning**<br>
+> All the project is **UNREADY** for deployment ! An alpha version will be released in the coming months...
+
 ## Project presentation
 The project goal is to make an open-source vehicle tracker.
 It's developped by a team of 4 software students (Théo M, Zoubir B, Sylvain B and Ezio C) on an idea of Ezio C.
