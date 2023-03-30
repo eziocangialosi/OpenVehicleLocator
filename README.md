@@ -11,7 +11,7 @@ This repository is the project showcase, you can navigate between all the reposi
 
 ## Project presentation
 The project goal is to make an open-source vehicle tracker.
-It's developped by a team of 4 software students (Théo M, Zoubir B, Sylvain B and Ezio C) on an idea of Ezio C.
+It's developped by a team of 4 software students ([Théo M](https://github.com/Tech-User42), [Zoubir B](https://github.com/gamard912), [Sylvain B](https://github.com/SylvainBRUNET37) and [Ezio C](https://github.com/eziocangialosi)) on an idea of Ezio C.
 This is a study project of students from BTS SNIR at Tours.
 
 ## Project Navigation
