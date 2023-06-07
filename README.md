@@ -6,8 +6,8 @@
 An open-source project to locate a vehicule <br>
 This repository is the project showcase, you can navigate between all the repositories in the [Project navigator](#project-navigation).
 
-> **Warning**<br>
-> All the project is **UNREADY** for deployment ! An alpha version will be released in the coming months...
+## Project Documenation
+The project documentation is available on the [official website](https://doc.ovl-project.org) !
 
 ## Project presentation
 The project goal is to make an open-source vehicle tracker.
